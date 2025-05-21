@@ -74,7 +74,7 @@ attachment_path = "test.jpg"
 smtp_server = "smtp-mail.outlook.com"
 smtp_port = 587  
 smtp_username = "hr66510@outlook.com"
-smtp_password = "Thatsfunibruh123!"
+smtp_password = "0!"
 
 
 
